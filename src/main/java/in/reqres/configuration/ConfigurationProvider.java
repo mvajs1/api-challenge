@@ -62,7 +62,7 @@ public class ConfigurationProvider {
             try {
                 return builder.getConfiguration();
             } catch (ConfigurationException e) {
-                throw new RuntimeException(String.format("Unable to load ui.challenge.configuration. %s", e));
+                throw new RuntimeException(String.format("Unable to load configuration. %s", e));
             }
         } else {
             return new CombinedConfiguration();
