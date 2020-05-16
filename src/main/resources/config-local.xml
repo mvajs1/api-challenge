@@ -1,0 +1,3 @@
+<configuration>
+  <properties fileName="properties/local.properties"/>
+</configuration>
