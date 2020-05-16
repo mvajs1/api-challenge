@@ -1,4 +1,4 @@
-# web-challenge
+# api-challenge
 _reqres.in_
 
 ### Preconditions
